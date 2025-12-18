@@ -1,0 +1,7 @@
+title: "Sonakhanim Dadashova"
+description: "Personal portfolio website"
+url: "https://sonadadasova7-boop.github.io"
+baseurl: "/website_sd"
+
+markdown: kramdown
+theme: minima
